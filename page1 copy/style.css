@@ -1,0 +1,44 @@
+
+
+
+#ruta1{
+
+    background-color: coral;
+    height: 500px;
+    width: 400px;
+}
+
+#ruta2{
+
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    width: 1380px;
+
+}
+
+#ruta5{
+
+    background-color: chartreuse;
+    height: 500px;
+    width: 300px;
+
+}
+
+#container{
+
+    display: flex;
+
+}
+#ruta3{
+
+background-color: aquamarine;
+height: 200px;
+width: 1980px;
+}
+
+#ruta4{
+
+    background-color: blueviolet;
+    height: 200px;
+    width: 1980px;
+}
