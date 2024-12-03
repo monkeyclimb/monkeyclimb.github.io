@@ -11,12 +11,15 @@ header{
     background-color: crimson;
     border-radius: 10px;
     font-size: 400%;
+    padding-left: 30px;
 }
 
 nav{
     grid-area: n;
     background-color: beige;
     font-size: 175%;
+    padding-left: 40px;
+    padding-top: 5px;
 }
 
 aside{
@@ -30,12 +33,15 @@ main{
     background-color:rgb(94, 122, 184);
     font-size: 150%;
     color: white;
+    padding: 10px;
 }
 
 footer{
     grid-area: f;
     background-color:beige;
     font-size: 130%;
+    padding-left:25px;
+    padding-top:5px;
 
 }
 
